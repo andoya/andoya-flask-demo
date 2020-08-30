@@ -10,7 +10,7 @@ version = "0.1.0"
 werkzeug = "^1.0.1"
 
 [package.source]
-reference = "6834855831009e8e84a632efffdf486b04c23fed"
+reference = "48a704785fc972ff9ba56c115fd3396568b508a1"
 type = "git"
 url = "ssh://git@github.com/andoya/wsgi.git"
 [[package]]
